@@ -1,0 +1,17 @@
+pip installs
+
+py -3.8 -m pip install tensorflow
+py -3.8 -m pip install keras
+py -3.8 -m pip install matplotlib
+py -3.8 -m pip install joblib
+py -3.8 -m pip install pandas
+
+install Microsoft C++ distributable
+https://www.tensorflow.org/install/pip#windows
+https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+
+
+
+run
+
+py -3.8 ./main.py
