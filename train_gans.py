@@ -187,4 +187,4 @@ train(g_model, d_model, gan_model, dataset, latent_dim)
 
 # save models
 mn = 'g_model'
-dump(g_model, constants.ROOT + '/results/models/' + mn + '.joblib')
+dump(g_model, constants.ROOT + 'results/models/' + mn + '.joblib')
